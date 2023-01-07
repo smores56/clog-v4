@@ -30,7 +30,7 @@ strut_radius = 3;
 // rendering level
 $fn = 15;
 
-right_side = false;
+right_side = true;
 
 module pcb() {
     translate([-75, 50, 0])
